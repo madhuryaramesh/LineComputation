@@ -8,7 +8,7 @@ namespace LineComputation
     {
         public void LineComp()
         {
-            Console.WriteLine("Length of a Line 1 and Line 2 equal or not :- ");
+            Console.WriteLine("Comparison Length of a Line 1 and Line 2 equal or not :- ");
             Console.WriteLine("_________________");
             //line 1
             Console.WriteLine("Coordinates of Line 1 :- ");
@@ -100,17 +100,21 @@ namespace LineComputation
             //Boolean eq;
             //eq=lin_len1.equals(lin_len2);
 
-            if (lin_len1 == lin_len2)
+            if (lin_len1.CompareTo(lin_len2) == 0)
             {
 
                 Console.WriteLine("EQUAL");
 
             }
 
+            else if (lin_len1.CompareTo(lin_len2) > 0)
+            {
+                Console.WriteLine("Line 1 is greater than Line 2");
+            }
             else
             {
 
-                Console.WriteLine("NOT EQUAL");
+                Console.WriteLine("Line 1 is smaller than Line 2");
 
             }
 
