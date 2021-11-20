@@ -1,0 +1,14 @@
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\bin\Debug\netcoreapp3.1\LineComputation.exe
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\bin\Debug\netcoreapp3.1\LineComputation.deps.json
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\bin\Debug\netcoreapp3.1\LineComputation.runtimeconfig.json
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\bin\Debug\netcoreapp3.1\LineComputation.runtimeconfig.dev.json
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\bin\Debug\netcoreapp3.1\LineComputation.dll
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\bin\Debug\netcoreapp3.1\LineComputation.pdb
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\obj\Debug\netcoreapp3.1\LineComputation.csproj.AssemblyReference.cache
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\obj\Debug\netcoreapp3.1\LineComputation.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\obj\Debug\netcoreapp3.1\LineComputation.AssemblyInfoInputs.cache
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\obj\Debug\netcoreapp3.1\LineComputation.AssemblyInfo.cs
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\obj\Debug\netcoreapp3.1\LineComputation.csproj.CoreCompileInputs.cache
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\obj\Debug\netcoreapp3.1\LineComputation.dll
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\obj\Debug\netcoreapp3.1\LineComputation.pdb
+E:\bridgelabz\.net\Assignments\LineComputation\LineComputation\obj\Debug\netcoreapp3.1\LineComputation.genruntimeconfig.cache
